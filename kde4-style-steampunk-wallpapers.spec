@@ -1,7 +1,7 @@
 Summary:	"SteampunK Powered Linux" wallpapers
 Name:		kde4-style-steampunk-wallpapers
 Version:	3.0
-Release:	1
+Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
 Url:		http://kde-look.org/content/show.php?content=149320
