@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 License:	Creative Commons Attribution-ShareAlike
 Group:		Graphical desktop/KDE
-Url:		http://kde-look.org/content/show.php?content=149320
+Url:		https://kde-look.org/content/show.php?content=149320
 Source0:	http://sites.google.com/site/binaryinspiration/download/SPL_Wlpr_Engine.tar.gz
 Source1:	http://sites.google.com/site/binaryinspiration/download/SPL_Wlpr_Machine.tar.gz
 Source2:	http://sites.google.com/site/binaryinspiration/download/SPL_Wlpr_Simple.tar.gz
